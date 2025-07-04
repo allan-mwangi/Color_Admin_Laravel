@@ -1,66 +1,153 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://wrapmarketusercontent.com/assets/items/full/6756511ba20f700f11f828ed45bf2f63cc52005debf9c122e6ea0e78cf26de41.webp?v=1750038861" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## About Color Admin Template
 
-## About Laravel
+Color Admin is the new premium and fully responsive admin template. Concept of design for Color Admin is based on the FLAT design and finally it comes out with a clean and neat design. It is built on top of the popular Bootstrap Framework. Besides that, it is bundled with a lot of third party plugins and useable elements such as buttons, thumbnails, media objects and much more..
+The features include but not limited to:
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+->Built with Bootstrap Bootstrap 5
+->Version HTML (6 Admin Theme + 5 Frontend Theme)
+->Version Ajax
+->Version React 19
+->Version Angular 1.x + 19.x
+->Version Vue.js 3.x + Vite.js
+->Version Laravel 12.x
+->Version NextJS 15.x
+->Version .NET Core 9.0 MVC
+->Version Django 5.x
+->Version Svelte + Vite.js
+->6 Admin Theme (Flat + Material Design + Apple Design + Transparent + Facebook + Google Design)
+->5 Front End Template
+->Light & Dark Mode
+->12 Admin Color Scheme
+->5 POS System UI Design
+->2 Admin Header Color Scheme
+->2 Admin Sidebar Color Scheme
+->Unlimited Admin Page Options
+->Gulp + SCSS Support
+->Full RTL Support
+->2 Admin Content Color Scheme
+->Local Storage Panel
+->Vanilla Core JS
+->Modern & Old Browser Compatibility
+->Compatible with DataTables & 9 DataTables Extension
+->Unlimited Nav Tabs
+->Smooth Mobile / Tablet Scrollbar Implementation
+->Iconify Icons (150,000+ Icons)
+->Font Icons - FontAwesome v6.4 (2000++ Icons)
+->Font Icons - Simple Line Icons
+->Font Icons - Ionicons (600++ Icons)
+->Font Icons - Google Material Icons
+->Font Duotone Icons - Solr
+->Fully Responsive HTML5 Markup & CSS3
+->JShint & HTML5 Valid
+->Easy to understand HTML Structure, CSS Classes & Javascript markup
+->Contrast Colors
+->Well Documented
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Html Demo Pages
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+HTML demo pages contain the following features:
+->Admin - Flat Design (12 Color Scheme)
+->Admin - Material Design (12 Color Scheme)
+->Admin - Apple Design (12 Color Scheme)
+->Admin - Transparent Design (12 Color Scheme)
+->Admin - Google Design (12 Color Scheme)
+->Admin - Facebook Design (12 Color Scheme)
+->Front end - E-Commerce (12 Theme Color)
+->Front end - One Page Parallax (12 Theme Color)
+->Front end - Support Forum (12 Theme Color)
+->Front end - Blog (12 Theme Color)
+->Front end - Corporate (12 Theme Color)
+->AJAX + HTML + ANGULAR + ANGULAR 19 + ASP.NET + REACT.JS + VUE.JS + DJANGO + SVELTE Version
+->Dashboard
+->Dashboard v2
+->AI Studio
+->AI Image Generator
+->Email Inbox
+->Email Compose
+->Email Detail
+->General UI Elements
+->Typography
+->Buttons
+->Tabs & Accordions
+->Unlimited Nav Tabs
+->Widget Boxes
+->Media Object
+->Simple Line Icons
+->Duotone Icons
+->FontAwesome
+->Icons
+->Tree Views
+->Language Bar & Icons
+->Offcanvas & Toasts
+->Form Elements
+->Form Plugins
+->Form Wizards
+->Form Validation
+->Form Slider + Switcher
+->Summernote
+->Dropzone
+->WYSIWYG
+->X-Editable
+->Multiple File Upload
+->POS System - Customer Order
+->POS System - Kitchen Order
+->POS System - Counter Checkout
+->POS System - Table Booking
+->POS System - Menu Stock
+->Basic Table
+->Managed Table
+->9 DataTables Plugins
+->DataTables Extension Combination
+->Flot Charts
+->Morris Charts
+->Chart JS
+->Chart d3
+->Calendar
+->Maps
+->Gallery
+->Gallery v2
+->Blank Page
+->Page With Footer
+->Page With Fixed Footer
+->Page Without Sidebar
+->Page With Right Sidebar
+->Page With Minified Sidebar
+->Page With Two Sidebar
+->Page Full Height
+->Page With Simple Line Icons
+->Page With Ionicons
+->Page With Light Sidebar
+->Page With Wide Sidebar
+->Page With Boxed Layout
+->Page With Top Menu
+->Page With Mixed Menu
+->Page with Boxed Layout and Mixed Menu
+->Page With Transparent Sidebar
+->Page With Search Sidebar
+->Search Results
+->Invoice
+->404 Error Page
+->Login
+->Login V2
+->Login V3
+->Register V3
+->System Email Template
+->Newsletter Email Template
+->Coming Soon Page
+->Timeline Page
+->Profile Page
+->Scrum Board
+->Cookie Acceptance Banner
+->Orders
+->Order Details
+->Products
+->Product Details
+->File Manager
+->Pricing Page
+->Data Management
+->Messenger Page
+->Settings Page
+->Landing Page
+->Predefined CSS Classes
