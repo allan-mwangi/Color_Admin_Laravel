@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://wrapmarketusercontent.com/assets/items/full/6756511ba20f700f11f828ed45bf2f63cc52005debf9c122e6ea0e78cf26de41.webp?v=1750038861" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://wrapmarketusercontent.com/assets/items/full/6756511ba20f700f11f828ed45bf2f63cc52005debf9c122e6ea0e78cf26de41.webp?v=1750038861" alt="Color Admin Dashboard"></a></p>
 
 ## About Color Admin Template
 
